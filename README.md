@@ -1,1 +1,1 @@
-# device_xiaomi_oxygen-2
+# device_xiaomi_oxygen
